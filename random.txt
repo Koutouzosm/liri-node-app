@@ -1,1 +1,1 @@
-concert-this, "Metallica"
+concert-this, metallica
