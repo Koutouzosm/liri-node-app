@@ -18,3 +18,7 @@ This program will run in your command line only. Using the command line find whe
     -movie-this "Movie Goes Here"
     -concert-this "Band/Artist Goes Here"
     -do-what-it-says 'takes information out of .txt file and returns info'
+
+    ![Alt Text](https://media.giphy.com/media/d6Jb3kvLlbJSgCpHJu/giphy.gif)
+
+
